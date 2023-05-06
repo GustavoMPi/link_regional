@@ -18,6 +18,6 @@ DISCIPLINA | Seminário Interdisciplinar: Implementação de uma Aplicação WEB
 - SQL
 - Git e GitHub
   
-  ## 📧 Contato dos Academicos
+  ## 📧 Contato dos Acadêmicos
 
   robsferreira@gmail.com
